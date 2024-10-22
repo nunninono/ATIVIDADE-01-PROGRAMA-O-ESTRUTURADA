@@ -1,0 +1,13 @@
+- Nome do(a) cliente 1: 2
+- Telefone do(a) cliente 1: 2
+- Email do(a) cliente 1: 2
+- Numero de animais do(a) cliente 1: 2- Nome do animal 1 do(a) cliente 1: 2
+- Tipo(especie) do animal 1 do(a) cliente 1: 2
+- Porte do animal 1 do(a) cliente 1: 2
+- Idade do animal 1 do(a) cliente 1: 2- Condicao especial do animal 1 do(a) cliente 1: 2
+- Nome do animal 2 do(a) cliente 1: 2
+- Tipo(especie) do animal 2 do(a) cliente 1: 2
+- Porte do animal 2 do(a) cliente 1: 2
+- Idade do animal 2 do(a) cliente 1: 2- Condicao especial do animal 2 do(a) cliente 1: 2
+- Data consulta do(a) cliente 1: 2\2\2 as 2
+
